@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+
+table,tr,th,td{
+	border-collapse:collapse;
+}
+
+td,th{
+	padding:10px;
+}
+tr:hover{
+	background:#bcb0ff;
+	color:white;
+}
+#btn{
+	background:#bcb0ff;
+	padding: 7px;
+	width: 100px;
+	border-radius: 10px;
+	border-color: white; 
+}
+
+#btn{
+	background: #a99ded;
+	color:white;
+
+	}
+
